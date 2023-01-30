@@ -47,15 +47,8 @@ Here are some ideas to get you started:
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/8d6f036b67d7606fad1dce6ea4f7750bd53e05d1f72a773d8c2cd53e50953b9e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f56697375616c25323053747564696f253230436f64652d3030374143433f7374796c653d666c61742d737175617265266c6f676f3d56697375616c25323053747564696f253230436f6465266c6f676f436f6c6f723d7768697465"><img src="https://camo.githubusercontent.com/8d6f036b67d7606fad1dce6ea4f7750bd53e05d1f72a773d8c2cd53e50953b9e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f56697375616c25323053747564696f253230436f64652d3030374143433f7374796c653d666c61742d737175617265266c6f676f3d56697375616c25323053747564696f253230436f6465266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat-square&amp;logo=Visual%20Studio%20Code&amp;logoColor=white" style="max-width: 100%;"></a>
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/88b78943825cd0bc4afa65b1d43f9dc6e7b5e08dc32a93b851035e567837a769/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f45636c697073652532304944452d3243323235353f7374796c653d666c61742d737175617265266c6f676f3d45636c69707365253230494445266c6f676f436f6c6f723d7768697465"><img src="https://camo.githubusercontent.com/88b78943825cd0bc4afa65b1d43f9dc6e7b5e08dc32a93b851035e567837a769/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f45636c697073652532304944452d3243323235353f7374796c653d666c61742d737175617265266c6f676f3d45636c69707365253230494445266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Eclipse%20IDE-2C2255?style=flat-square&amp;logo=Eclipse%20IDE&amp;logoColor=white" style="max-width: 100%;"></a>
    
-  <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
    
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&amp;logo=HTML5&amp;logoColor=white" /></a>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&amp;logo=CSS3&amp;logoColor=white" /></a>
-  <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&amp;logo=Javascript&amp;logoColor=black" /></a>
-  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&amp;logo=Java&amp;logoColor=white" /></a>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&amp;logo=Python&amp;logoColor=white" /></a>
-  <img src="https://img.shields.io/badge/Mysql-4479A1?style=flat-square&amp;logo=Mysql&amp;logoColor=white" /></a>
   <a href="https://github.com/sjwoo1999"><img src="https://img.shields.io/badge/Github-181717?style=flat-square&amp;logo=Github&amp;logoColor=white" /></a>
 </p>
   

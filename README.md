@@ -48,7 +48,7 @@ Here are some ideas to get you started:
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/88b78943825cd0bc4afa65b1d43f9dc6e7b5e08dc32a93b851035e567837a769/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f45636c697073652532304944452d3243323235353f7374796c653d666c61742d737175617265266c6f676f3d45636c69707365253230494445266c6f676f436f6c6f723d7768697465">
    <br>
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
-  <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
+<img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
 </p>
   
 </div>

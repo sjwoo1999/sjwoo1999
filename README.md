@@ -20,16 +20,16 @@ Here are some ideas to get you started:
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFBE98&random=false&width=435&lines=Hello%2C+welcome+to+my+Git+repository.)](https://git.io/typing-svg)
 
-<div align=center><h1>📚 STACKS</h1></div>
+<div align="center"><h1>📚 STACKS</h1></div>
 
-<div align=center> 
+<div align="center"> 
   
   <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c%2B%2B&logoColor=white">
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
 
-<br>
+  <br>
   
   <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
   <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
@@ -46,15 +46,20 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/-NestJs-ea2845?style=for-the-badge&logo=nestjs&logoColor=white">
  
   <br>
-  
 
   <br>
   
-  <div align=center><h1>🔨 Tools</h1></div>
+  <div align="center"><h1>🔨 Tools</h1></div>
   
- <p dir="auto">
+  <p dir="auto">
+    <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"> 
+    <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
+  </p>
+  
+  <div align="center"><h1>🌐 My Portfolio</h1></div>
 
-<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
-</p>
+  <p dir="auto">
+    <a href="https://w40owoe3.dora.run/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white"></a>
+  </p>
   
 </div>

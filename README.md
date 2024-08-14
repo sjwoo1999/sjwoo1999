@@ -47,6 +47,8 @@ Here are some ideas to get you started:
  
   <br>
 
+  <img src="https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white">
+
   <br>
   
   <div align="center"><h1>🔨 Tools</h1></div>

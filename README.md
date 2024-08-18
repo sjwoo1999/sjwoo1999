@@ -57,17 +57,16 @@ Here are some ideas to get you started:
   
   <div align="center"><h1>🔨 Tools</h1></div>
   
-  <p dir="auto">
+  
     <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"> 
     <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
-  </p>
-
-  <p dir="auto">
+  
+    <br>
+ 
     <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white">
     <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white">
     <img src="https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white">
-    
-  </p>
+
   
   <div align="center"><h1>🌐 My Portfolio</h1></div>
 

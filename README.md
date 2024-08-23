@@ -70,7 +70,7 @@ Here are some ideas to get you started:
   <div align="center"><h1>🌐 My Portfolio</h1></div>
 
   <p dir="auto">
-    <a href="https://w40owoe3.dora.run/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white"></a>
+    <!--<a href="https://w40owoe3.dora.run/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white"></a>-->
   </p>
   
 </div>

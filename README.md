@@ -68,7 +68,7 @@ Here are some ideas to get you started:
   <br>
   
   <img src="https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white">
-  <img src="https://img.shields.io/badge/Claude-8A2BE2?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI0ZGRiIgZD0iTTEyIDJMMiA7djEwbDEwIDUgMTAtNVY3TDEyIDJ6bTAgMTZsLTgtNHYtNGw4IDR2NHptMC02bC04LTQgOC00IDggNEwxMiAxMnoiLz48L3N2Zz4=">
+  <img src="https://img.shields.io/badge/Claude-8A2BE2?style=for-the-badge">
   
   <div align="center"><h1>🌐 My Portfolio</h1></div>
 

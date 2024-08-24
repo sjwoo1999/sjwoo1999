@@ -68,16 +68,7 @@ Here are some ideas to get you started:
   <br>
   
   <img src="https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white">
-  <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="233.75" height="28" role="img" aria-label="CLAUDE">
-  <title>CLAUDE: AI ASSISTANT</title>
-  <g shape-rendering="crispEdges">
-    <rect width="233.75" height="28" fill="#8a2be2"/>
-  </g>
-  <g fill="#fff" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-rendering="geometricPrecision" font-size="100">
-    <image x="9" y="7" width="14" height="14" xlink:href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI0ZGRiIgZD0iTTEyIDJMMiA3djEwbDEwIDUgMTAtNVY3TDEyIDJ6bTAgMTZsLTgtNHYtNGw4IDR2NHptMC02bC04LTQgOC00IDggNEwxMiAxMnoiLz48L3N2Zz4="/>
-    <text transform="scale(.1)" x="1268.75" y="175" textLength="1797.5" fill="#fff" font-weight="bold">CLAUDE: AI ASSISTANT</text>
-  </g>
-</svg>
+  <img src="https://img.shields.io/badge/Claude-AI%20Assistant-8A2BE2?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI0ZGRiIgZD0iTTEyIDJMMiA3djEwbDEwIDUgMTAtNVY3TDEyIDJ6bTAgMTZsLTgtNHYtNGw4IDR2NHptMC02bC04LTQgOC00IDggNEwxMiAxMnoiLz48L3N2Zz4=">
   
   <div align="center"><h1>🌐 My Portfolio</h1></div>
 

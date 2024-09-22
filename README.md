@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 
 -->
 
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFBE98&random=false&width=435&lines=Hello%2C+welcome+to+my+Git+repository.)](https://git.io/typing-svg)
 
 <div align="center"><h1>📚 STACKS</h1></div>

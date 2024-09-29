@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 
 -->
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=sjwoo1999&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFBE98&random=false&width=435&lines=Hello%2C+welcome+to+my+Git+repository.)](https://git.io/typing-svg)
 

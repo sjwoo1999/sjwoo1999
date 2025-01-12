@@ -84,9 +84,11 @@ Here are some ideas to get you started:
   
   <div align="center"><h1>🌐 My Portfolio</h1></div>
 
-  <p dir="auto">
-    <!--<a href="https://w40owoe3.dora.run/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white"></a>-->
-  </p>
+  <div align="center">
+  <a href="https://sjwoo.kr" target="_blank">
+    <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-%23000000.svg?style=for-the-badge&logo=About.me&logoColor=white" alt="Visit My Portfolio">
+  </a>
+  </div>
 
   
 </div>

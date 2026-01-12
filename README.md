@@ -1,4 +1,4 @@
-# Seongjong Woo 👋 [![Portfolio](http://img.shields.io/badge/-Portfolio-000?style=flat-square&logo=vercel&link=https://sjwoo.kr/)](https://sjwoo.kr/) [![LinkedIn](http://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&link=https://linkedin.com/in/woosj/)](https://linkedin.com/in/woosj/) [![GitHub](http://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&link=https://github.com/sjwoo1999/)](https://github.com/sjwoo1999/)
+# Sungjong Woo 👋 [![Portfolio](http://img.shields.io/badge/-Portfolio-000?style=flat-square&logo=vercel&link=https://sjwoo.kr/)](https://sjwoo.kr/) [![LinkedIn](http://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&link=https://linkedin.com/in/woosj/)](https://linkedin.com/in/woosj/) [![GitHub](http://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&link=https://github.com/sjwoo1999/)](https://github.com/sjwoo1999/)
 
 <p>
   <em>

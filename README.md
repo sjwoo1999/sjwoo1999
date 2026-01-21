@@ -15,6 +15,9 @@
 ## 👨‍💻 About Me
 문제를 정의하고, 빠르게 검증하며, 데이터로 개선하는 개발자입니다. API-first MVP와 로그 기반 피드백 루프로 검증 리드타임을 단축하고, 사용자 행동 데이터를 기준으로 의사결정합니다.
 
+## ✉️ Contact
+sjwoo1999@korea.ac.kr
+
 ## 🚀 Entrepreneurial Experience
 - **SMEats** - 개발 *(2025)*
   - 고려대학교 크림슨창업지원단 KU창업동아리
